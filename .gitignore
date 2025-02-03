@@ -1,0 +1,5 @@
+TransformerModel/gpt-v1.ipynb
+TransformerModel/model-01.pkl
+TransformerModel/openwebtext/train_split.txt
+TransformerModel/openwebtext/val_split.txt
+TransformerModel/openwebtext/vocab.txt
